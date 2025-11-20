@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "osm_parkings_20251120_parkandride_centroids",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "2", "amenity": "parking", "capacity": "1300", "fee": "yes", "layer": "-1", "name": "Метростанция Цариградско Шосе", "operator": null, "parking": "underground", "osm_id": "way_397987677" }, "geometry": { "type": "Point", "coordinates": [ 23.394886229892141, 42.648574329795395 ] } },
+{ "type": "Feature", "properties": { "id": "3", "amenity": "parking", "capacity": "577", "fee": "yes", "layer": "-3", "name": "буферен паркинг „Джеймс Баучер“", "operator": null, "parking": "underground", "osm_id": "way_437661586" }, "geometry": { "type": "Point", "coordinates": [ 23.319571096385836, 42.669049222164865 ] } },
+{ "type": "Feature", "properties": { "id": "1", "amenity": "parking", "capacity": "193", "fee": "yes", "layer": "-1", "name": "Буферен паркинг МС стадион Васил Левски", "operator": "Център за градска мобилност", "parking": "underground", "osm_id": "way_1289582954" }, "geometry": { "type": "Point", "coordinates": [ 23.332558604445399, 42.685547064087039 ] } },
+{ "type": "Feature", "properties": { "id": "5", "amenity": "parking", "capacity": "128", "fee": "yes", "layer": "-1", "name": "Бели Дунав - Връбница", "operator": "Център за градска мобилност", "parking": "underground", "osm_id": "way_1425376104" }, "geometry": { "type": "Point", "coordinates": [ 23.291860646325254, 42.73632167079618 ] } },
+{ "type": "Feature", "properties": { "id": "4", "amenity": "parking", "capacity": "350", "fee": "yes", "layer": "-1", "name": "Бели Дунав - Надежда", "operator": "Център за градска мобилност", "parking": "underground", "osm_id": "way_1425376105" }, "geometry": { "type": "Point", "coordinates": [ 23.294773105173665, 42.733696067090555 ] } }
+]
+}
